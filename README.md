@@ -37,7 +37,7 @@ Based in Maracaibo, Venezuela 🇻🇪 — bridging communities, technology and 
 
 ## 🌍 Communities
 
-- 💜 [H.E.R. DAO Venezuela](https://github.com/arlettemsalase/her-dao-vzla-registry) — Founder
+- 💜 [H.E.R. DAO Venezuela](https://t.me/HerDAOVzla) — Founder
 - 🏛️ JCI Zulia — VP of International Cooperation 2026
 
 ---
@@ -48,6 +48,11 @@ Based in Maracaibo, Venezuela 🇻🇪 — bridging communities, technology and 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arlettemsalase)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/arlettemsalase)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@arlettemsalas)
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/arlettemsalase)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arlettemsalase@gmail.com)
+
+
+📅 Want to connect? [Book a meeting with me](https://calendar.app.google/QyoxSMdaxk8ghLNf9)
 
 ---
 
