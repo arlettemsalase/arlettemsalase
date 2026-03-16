@@ -1,4 +1,4 @@
-# Hey, I'm Arlette 👋🏽
+# Hi, I'm Arlette 👋🏽
 
 **Builder · Community Leader · Web3 Advocate in LATAM**
 
@@ -53,6 +53,10 @@ Based in Maracaibo, Venezuela 🇻🇪 — bridging communities, technology and 
 
 
 📅 Want to connect? [Book a meeting with me](https://calendar.app.google/QyoxSMdaxk8ghLNf9)
+
+---
+
+![](https://komarev.com/ghpvc/?username=arlettemsalase&color=1DB954&style=flat)
 
 ---
 
