@@ -1,4 +1,4 @@
-# Hi, I'm Arlette 👋🏽
+# Hi, I'm Arlette! :)
 
 **Builder · Community Leader · Web3 Advocate in LATAM**
 
