@@ -10,7 +10,6 @@ Based in Maracaibo, Venezuela 🇻🇪 — bridging communities, technology and 
 
 - 🌐 Founder of **H.E.R. DAO Venezuela** — a community focused on women in tech and blockchain
 - 🎙️ International speaker at events like Blockchain Summit Latam and Blockchain.Rio (30+ talks)
-- 🏛️ VP of International Cooperation 2026 at **JCI Zulia**
 - 💼 Former Business Developer at **[Bitfinex](https://www.bitfinex.com)** (Venezuelan market)
 - 🌱 Former LATAM Growth Lead at **[Hive.io](https://hive.io)**
 - 👩🏽‍💻 Currently learning blockchain development — Solana (Rust + Anchor) and Stellar
@@ -38,7 +37,6 @@ Based in Maracaibo, Venezuela 🇻🇪 — bridging communities, technology and 
 ## 🌍 Communities
 
 - 💜 [H.E.R. DAO Venezuela](https://t.me/HerDAOVzla) — Founder
-- 🏛️ JCI Zulia — VP of International Cooperation 2026
 
 ---
 
